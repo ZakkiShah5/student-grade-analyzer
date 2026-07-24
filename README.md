@@ -33,7 +33,7 @@ At risk: ['Bob']
 python grade_analyzer.py
 ```
 
-(Requires Python 3.x — no external libraries needed.)
+(Requires Python 3.14.1 — no external libraries needed.)
 
 ## Skills Practiced
 
