@@ -30,7 +30,7 @@ At risk: ['Bob']
 ## How to Run
 
 ```bash
-python grade_analyzer.py
+python grade_Analyzer.py
 ```
 
 (Requires Python 3.x — no external libraries needed.)
